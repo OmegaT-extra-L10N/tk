@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175748Z" creationid="Merdan NURIYEV" creationdate="20210522T175748Z">
+        <seg>OMT Paket faýly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174736Z" creationid="Merdan NURIYEV" creationdate="20210522T174736Z">
@@ -38,10 +46,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175645Z" creationid="Merdan NURIYEV" creationdate="20210522T175645Z">
+        <seg>Proýekti gapla we öçür...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175628Z" creationid="Merdan NURIYEV" creationdate="20210522T175628Z">
+        <seg>Proýekti OMT faýly şekilinde gapla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment beginning with a fuzzy match prefix</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175447Z" creationid="Merdan NURIYEV" creationdate="20210522T175447Z">
         <seg>Dilim, bir kesgitli bolmaýan gabat getirilen prefiks bilen başlaýar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175736Z" creationid="Merdan NURIYEV" creationdate="20210522T175736Z">
+        <seg>OMT paketiniň ýerini we adyny saýla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175714Z" creationid="Merdan NURIYEV" creationdate="20210522T175714Z">
+        <seg>Import etmek üçin OMT paketini saýla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175557Z" creationid="Merdan NURIYEV" creationdate="20210522T175557Z">
+        <seg>Proýetki OMT faýlyndan çykart...</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
