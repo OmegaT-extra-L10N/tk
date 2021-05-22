@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175336Z" creationid="Merdan NURIYEV" creationdate="20210522T175336Z">
+        <seg>Kesgitli Bolmaýan Gabat Getirilenlerdäki Näsazlyklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174736Z" creationid="Merdan NURIYEV" creationdate="20210522T174736Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174800Z" creationid="Merdan NURIYEV" creationdate="20210522T174800Z">
         <seg>Okapi XLIFF Süzgüç Opsiýalaryş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175447Z" creationid="Merdan NURIYEV" creationdate="20210522T175447Z">
+        <seg>Dilim, bir kesgitli bolmaýan gabat getirilen prefiks bilen başlaýar</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
