@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9319dd7c6" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174900Z" creationid="Merdan NURIYEV" creationdate="20210522T174900Z">
+        <seg>Kesgitli Bolmaýan Gabat Gelmeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174736Z" creationid="Merdan NURIYEV" creationdate="20210522T174736Z">
+        <seg>Okapi Süzgüç Opsiýalary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174800Z" creationid="Merdan NURIYEV" creationdate="20210522T174800Z">
+        <seg>Okapi XLIFF Süzgüç Opsiýalaryş</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
