@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
       </tuv>
-      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172703Z" creationid="Merdan NURIYEV" creationdate="20210608T172703Z">
-        <seg>Meňzeş atly başga bir paket bar.</seg>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173135Z" creationid="Merdan NURIYEV" creationdate="20210608T172703Z">
+        <seg>Meňzeş atly başga bir paket öňden hem bar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172508Z" creationid="Merdan NURIYEV" creationdate="20210608T172508Z">
         <seg>Paktetdäki terjime munuň üstüne ýazylsyn my?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173211Z" creationid="Merdan NURIYEV" creationdate="20210608T173211Z">
+        <seg>Bu paketiň üstüne ýazylsyn my?</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173308Z" creationid="Merdan NURIYEV" creationdate="20210608T173308Z">
+        <seg>OMT paketi üstünlükli döredildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174736Z" creationid="Merdan NURIYEV" creationdate="20210522T174736Z">
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174800Z" creationid="Merdan NURIYEV" creationdate="20210522T174800Z">
         <seg>Okapi XLIFF Süzgüç Opsiýalaryş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173246Z" creationid="Merdan NURIYEV" creationdate="20210608T173246Z">
+        <seg>OMT paketini üstüne ýaz</seg>
       </tuv>
     </tu>
     <tu>
