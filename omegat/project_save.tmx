@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173451Z" creationid="Merdan NURIYEV" creationdate="20210608T173451Z">
+        <seg>Açylan OMT paketini öçür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173412Z" creationid="Merdan NURIYEV" creationdate="20210608T173412Z">
+        <seg>OMT paketini öçürmek isleýärsiňizmi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to overwrite it with the translation from the package ?</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172508Z" creationid="Merdan NURIYEV" creationdate="20210608T172508Z">
@@ -62,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173317Z" creationid="Merdan NURIYEV" creationdate="20210608T173317Z">
+        <seg>OMT paketi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175748Z" creationid="Merdan NURIYEV" creationdate="20210522T175748Z">
@@ -74,6 +98,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173308Z" creationid="Merdan NURIYEV" creationdate="20210608T173308Z">
         <seg>OMT paketi üstünlükli döredildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173521Z" creationid="Merdan NURIYEV" creationdate="20210608T173521Z">
+        <seg>OMT paketi içerik alyndy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173606Z" creationid="Merdan NURIYEV" creationdate="20210608T173606Z">
+        <seg>Proýekt OMT paketine öwrülýär...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment beginning with a fuzzy match prefix</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175447Z" creationid="Merdan NURIYEV" creationdate="20210522T175447Z">
@@ -150,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173336Z" creationid="Merdan NURIYEV" creationdate="20210608T173336Z">
+        <seg>Paket üstünlükli açyldy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project already has an ongoing translation.</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172427Z" creationid="Merdan NURIYEV" creationdate="20210608T172427Z">
@@ -162,6 +210,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175557Z" creationid="Merdan NURIYEV" creationdate="20210522T175557Z">
         <seg>Proýetki OMT faýlyndan çykart...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173504Z" creationid="Merdan NURIYEV" creationdate="20210608T173504Z">
+        <seg>OMT paketi açylýar...</seg>
       </tuv>
     </tu>
     <tu>
