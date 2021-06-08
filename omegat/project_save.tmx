@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173831Z" creationid="Merdan NURIYEV" creationdate="20210608T173831Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173827Z" creationid="Merdan NURIYEV" creationdate="20210608T173827Z">
+        <seg>Bes et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating new project from OMT package</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172402Z" creationid="Merdan NURIYEV" creationdate="20210608T172402Z">
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173451Z" creationid="Merdan NURIYEV" creationdate="20210608T173451Z">
         <seg>Açylan OMT paketini öçür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173653Z" creationid="Merdan NURIYEV" creationdate="20210608T173653Z">
+        <seg>Proýekt öçürilýär...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173838Z" creationid="Merdan NURIYEV" creationdate="20210608T173838Z">
+        <seg>Ýalňyşlyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T174900Z" creationid="Merdan NURIYEV" creationdate="20210522T174900Z">
@@ -70,10 +102,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173702Z" creationid="Merdan NURIYEV" creationdate="20210608T173702Z">
+        <seg>Setire Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172240Z" creationid="Merdan NURIYEV" creationdate="20210608T172240Z">
         <seg>Näsaz OMT paketi, "omegat.project" faýly ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173719Z" creationid="Merdan NURIYEV" creationdate="20210608T173719Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173714Z" creationid="Merdan NURIYEV" creationdate="20210608T173714Z">
+        <seg>Setir berlgisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173819Z" creationid="Merdan NURIYEV" creationdate="20210608T173819Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173815Z" creationid="Merdan NURIYEV" creationdate="20210608T173815Z">
+        <seg>Bolýar</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +178,14 @@
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173521Z" creationid="Merdan NURIYEV" creationdate="20210608T173521Z">
         <seg>OMT paketi içerik alyndy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173639Z" creationid="Merdan NURIYEV" creationdate="20210608T173639Z">
+        <seg>OMT proýekti paketledni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +240,16 @@
       <tuv lang="en">
         <seg>Packing OMT project...</seg>
       </tuv>
-      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173606Z" creationid="Merdan NURIYEV" creationdate="20210608T173606Z">
-        <seg>Proýekt OMT paketine öwrülýär...</seg>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173628Z" creationid="Merdan NURIYEV" creationdate="20210608T173606Z">
+        <seg>OMT proýekti paketlenýär...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T173808Z" creationid="Merdan NURIYEV" creationdate="20210608T173808Z">
+        <seg>Şu aralykdaky san giriziň 1 we </seg>
       </tuv>
     </tu>
     <tu>
