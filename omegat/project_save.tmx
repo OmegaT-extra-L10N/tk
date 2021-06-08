@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210608T172240Z" creationid="Merdan NURIYEV" creationdate="20210608T172240Z">
+        <seg>Näsaz OMT paketi, "omegat.project" faýly ýok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="tk" changeid="Merdan NURIYEV" changedate="20210522T175748Z" creationid="Merdan NURIYEV" creationdate="20210522T175748Z">
